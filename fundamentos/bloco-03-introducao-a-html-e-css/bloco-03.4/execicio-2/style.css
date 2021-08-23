@@ -1,0 +1,13 @@
+.header {
+    background-color:rgb(65, 224, 16) ;
+    border: 1px solid black;
+    text-align: center;
+
+}
+.menu-nav a {
+    color: black;
+    text-decoration: none;
+    display: inline-block;
+    width: 33%;
+    background-color: rgba(13, 118, 216, 0.76);
+}
